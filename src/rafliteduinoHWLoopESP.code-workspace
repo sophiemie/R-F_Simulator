@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/Hochschule Bremen/Embedded Systems/rafliteduinoHWLoopESP"
+		},
+		{
+			"name": "rafliteduinoHWLoopESP",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"new": "cpp",
+			"limits": "cpp",
+			"type_traits": "cpp"
+		}
+	}
+}
