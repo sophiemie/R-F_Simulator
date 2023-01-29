@@ -1,5 +1,5 @@
 # RAF_Simulator
-Robot@FactoryLite for the SimTwo2022 Simulator
+Robot@Factory for the SimTwo2022 Simulator. It was created for the competition for the BIP Embedded Systems, where we participated beetween the 9th and 13th of january at the IPB in Braganca.
 
 ## Acknowledgements
 
