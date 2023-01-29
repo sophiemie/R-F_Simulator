@@ -24,6 +24,11 @@ Our code for the Robot@Factory for the SimTwo2022 Simulator. It was created for 
 - Choose the Scene RobotFactoryLite2022
 - Start the Simulation
 
+## Work with the Simulation
+In this simulation there are some different scenes that can be simulated. We have to choose the scene RobotFactoryLite2022.  We can change a scene by right-click with the mouse on the current scene. After that we can see the scene. 
+
+
+
 
 ## State Mashines
 <img src="/States/main.png" width="20%" height="20%">
