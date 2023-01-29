@@ -3,4 +3,4 @@ Robot@FactoryLite for the SimTwo2022 Simulator
 
 ## State Mashines
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/repository/States/main.png?raw=true "Main State")
