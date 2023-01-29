@@ -5,4 +5,4 @@ Robot@FactoryLite for the SimTwo2022 Simulator
 
 ![mainstate](/States/main.png?raw=true "Main State")
 
-<img src="/States/main.png" width="50%" height="50%">
+<img src="/States/main.png" width="20%" height="20%">
