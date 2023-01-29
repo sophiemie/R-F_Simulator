@@ -19,6 +19,7 @@ Our code for the Robot@Factory for the SimTwo2022 Simulator. It was created for 
   git clone https://github.com/sophiemie/RAF_Simulator
 ```
 - Load the code on an ESP32
+- Connect the ESP32 with your device with an usb-micro cable
 - Start the SimTwo2022 Simulator
 - Choose the Scene RobotFactoryLite2022
 - Start the Simulation
