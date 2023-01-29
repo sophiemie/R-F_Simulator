@@ -11,6 +11,19 @@ Our code for the Robot@Factory for the SimTwo2022 Simulator. It was created for 
 - [Josephina Ochynski](https://www.github.com/josy12345)
 - [Liu Lizhong](https://www.github.com/llzlby)
 
+## Run
+
+- Clone the project
+
+```bash
+  git clone https://github.com/sophiemie/RAF_Simulator
+```
+- Load the code on an ESP32
+- Start the SimTwo2022 Simulator
+- Choose the Scene RobotFactoryLite2022
+- Start the Simulation
+
+
 ## State Mashines
 <img src="/States/main.png" width="20%" height="20%">
 <img src="/States/firstBox.png" width="20%" height="20%">
