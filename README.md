@@ -3,7 +3,7 @@ Robot@FactoryLite for the SimTwo2022 Simulator
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Robot@Factory Lite: An Educational Approach for the Competition with Simulated and Real Environment](https://core.ac.uk/reader/323508990)
 
 ## Authors
 
