@@ -24,6 +24,6 @@ You can find the Documentation in Report_R@F_Group9.pdf.
 
 ## Related
 
-You can find the project for the real Robot@Factory here
+You can find the project for our real Robot@Factory here
 
 [RAF](https://github.com/sophiemie/RAF)
