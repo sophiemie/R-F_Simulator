@@ -42,10 +42,7 @@ To start the simulation, the sheets must be open. Then there are two buttons whi
 
 ## State Mashines
 <img src="/States/main.png" width="20%" height="20%">
-<img src="/States/firstBox.png" width="20%" height="20%">
-<img src="/States/secondBox.png" width="20%" height="20%">
-<img src="/States/thirdBox.png" width="20%" height="20%">
-<img src="/States/forthBox.png" width="20%" height="20%">
+<img src="/States/state_machines.png" width="50%" height="50%">
 
 ## Documentation
 
