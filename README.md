@@ -4,6 +4,7 @@ Our code for the Robot@Factory for the SimTwo2022 Simulator. It was created for 
 ## Acknowledgements
 
  - [Robot@Factory Lite: An Educational Approach for the Competition with Simulated and Real Environment](https://core.ac.uk/reader/323508990)
+ - [SimTwo Realistic Simulator: A Tool for the Development and Validation of Robot Software](https://www.academia.edu/80708613/SimTwo_Realistic_Simulator_A_Tool_for_the_Development_and_Validation_of_Robot_Software)
 
 ## Authors
 
