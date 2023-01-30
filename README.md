@@ -45,7 +45,7 @@ To start the simulation, the sheets must be open. Then there are two buttons whi
 <img src="/States/main.png" width="20%" height="20%">
 
 ### States for the four boxes:
-<img src="/States/state_machines.png" width="90%" height="90%">
+<img src="/States/state_machines.png" width="100%" height="100%">
 
 ## Documentation
 
