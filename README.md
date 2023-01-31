@@ -49,7 +49,7 @@ To start the simulation, the sheets must be open. Then there are two buttons whi
 
 ## Documentation
 
-You can find the Documentation in Report_R@F_Group9.pdf.
+You can find the Documentation in Report_RAF_Group9.pdf.
 
 ## Related
 
