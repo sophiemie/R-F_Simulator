@@ -5,6 +5,8 @@ Our code for the Robot@Factory for the SimTwo2022 Simulator. It was created for 
 
  - [Robot@Factory Lite: An Educational Approach for the Competition with Simulated and Real Environment](https://core.ac.uk/reader/323508990)
  - [SimTwo Realistic Simulator: A Tool for the Development and Validation of Robot Software](https://www.academia.edu/80708613/SimTwo_Realistic_Simulator_A_Tool_for_the_Development_and_Validation_of_Robot_Software)
+ - [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1)
+ - [Lecture slides](https://e1.pcloud.link/publink/show?code=kZQdg8ZOmlzpKkXUF4TWcCg1aiYMJxM6Iak#folder=4475096407&tpl=publicfoldergrid)
 
 ## Authors
 
@@ -49,7 +51,7 @@ To start the simulation, the sheets must be open. Then there are two buttons whi
 
 ## Documentation
 
-You can find the Documentation in Report_RAF_Group9.pdf.
+You can find the Documentation in [Report_RAF_Group9.pdf](/Report_RAF_Group9.pdf).
 
 ## Related
 
